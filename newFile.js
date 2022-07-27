@@ -1,4 +1,4 @@
-'use strict'
+// 'use strict'
 
 if (2 > 1) {
     function foo() {
@@ -6,4 +6,3 @@ if (2 > 1) {
     }
     foo();
 }
-
