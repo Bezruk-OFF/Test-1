@@ -24,3 +24,5 @@ function get2dimensional(array, limit) {             // Делаем из array 
 
     return result;
 }
+
+console.log(get2dimensional(arr, 5));
