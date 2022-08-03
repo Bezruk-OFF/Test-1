@@ -27,7 +27,7 @@ function get2dimensional(array, limit) {             // Делаем из array 
 
 //+/+/+/+//+/+/+/+/+//+/+/+/+/+/+/+/+//+/+/+/+/+/+//+/+//
 
-let size = 7;
+let size = 10;
 let pagesCount = Math.ceil(pages.length / size);
 
 let currentPages = pages;
