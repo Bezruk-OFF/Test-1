@@ -2,6 +2,7 @@
     margin-top: 20px;
     display: flex;
     flex-direction: column;
+    background-color: aqua;
 }
 
 .button {
@@ -13,4 +14,9 @@
 .button.prev,
 .button.next {
     background-color: bisque;
+}
+
+a {
+    text-decoration: none;
+    color: black;
 }
