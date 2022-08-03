@@ -13,12 +13,14 @@
 .button.next {
     background-color: bisque;
     margin: 0 5px;
+    color: rgb(7, 138, 2);
 }
 
 .menu {
     margin-top: 20px;
     display: flex;
     flex-direction: column;
+    background-color: rgb(228, 59, 219);
 }
 
 a {
