@@ -1,7 +1,6 @@
-.menu {
+.paginator {
     margin-top: 20px;
     display: flex;
-    flex-direction: column;
 }
 
 .button {
@@ -13,4 +12,11 @@
 .button.prev,
 .button.next {
     background-color: bisque;
+    margin: 0 5px;
+}
+
+.menu {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
 }
